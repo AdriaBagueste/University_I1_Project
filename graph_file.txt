@@ -1,0 +1,10 @@
+Nodes:
+A 1 2
+B 8 9
+C 5 2
+D 7 3
+Segments:
+AB A B
+AC A C
+BD B D
+CD C D
