@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Spain Boundary</name>
+    <Placemark>
+      <name>Boundary</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -9.3207,43.7942,0
+              3.3106,43.7942,0
+              3.3106,35.9965,0
+              -9.3207,35.9965,0
+              -9.3207,43.7942,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml> 
